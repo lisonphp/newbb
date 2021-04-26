@@ -1,6 +1,7 @@
 {
     "name": "newbee/erp-syuue",
     "description": "common syuue",
+    "license": "MIT",
     "keywords": [
         "syuue"
     ],
