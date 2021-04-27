@@ -4,6 +4,7 @@
     "keywords": [
         "syuue"
     ],
+    "license": "MIT",
     "require": {
         "prettus/l5-repository": "2.6.x",
         "dingo/api": "3.0.0"
