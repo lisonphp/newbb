@@ -22,5 +22,15 @@
                 "Newbee\\Syuue\\SyuueServiceProvider"
             ]
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "./packages/*",
+            "options": {
+                "symlink": true
+            }
+        
+        }
+    ]
 }
