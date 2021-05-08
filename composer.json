@@ -1,0 +1,26 @@
+{
+    "name": "newbee/erp-report",
+    "description": "common report",
+    "keywords": [
+        "report"
+    ],
+    "license": "MIT",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Newbee\\Report\\": "src"
+        },
+        "classmap": [
+
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Newbee\\Report\\ReportServiceProvider"
+            ]
+        }
+    }
+}
